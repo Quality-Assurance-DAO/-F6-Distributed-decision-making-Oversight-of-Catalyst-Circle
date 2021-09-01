@@ -25,10 +25,11 @@ The text of this proposal is version controlled here - https://github.com/Qualit
 and tracked here - https://github.com/Quality-Assurance-DAO/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle/projects/1
 
 --------------------------------------------------------------------------------------------------
-
 ## Community Oversight
 
-The Catalyst Circle Oversight GitBook documents and tracks the activities of the Catalyst Circle a initiative started by IOHK to advance governance in Project Catalyst.
+## How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?
+
+The Catalyst Circle Oversight GitBook documents and tracks the activities of the Catalyst Circle a initiative started by IOHK to advance governance in Project Catalyst. The aim of the Catalyst Circle Oversight GitBook is to improve distributed decision making by making the activities, discussions and decisions of Catalyst Circle accessible to all.
 
 This site is maintained by QA-DAO in collaboration with the Cardano and Project Catalyst communities. All content recorded is open source, licensed under Apache 2.0.
 
