@@ -28,6 +28,12 @@ The Catalyst Circle Oversight GitBook has been maintained since July 11th 2021.
 
 --------------------------------------------------------------------------------------------------
 
+## Relevant experience
+
+Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle and maintains 'Ekphrasis' a repository of academic content from across the Cardano community.
+
+--------------------------------------------------------------------------------------------------
+
 ## A live record of additions to the GitBook
 
 A live record of additions to the GitBook back end GitHub repository can be seen here ( https://github.com/Catalyst-Swarm/Catalyst-Circle/graphs/contributors?from=2021-07-11&to=2021-09-01&type=a).
