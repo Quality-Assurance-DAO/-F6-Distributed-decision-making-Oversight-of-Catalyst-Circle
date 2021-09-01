@@ -7,7 +7,7 @@ A community maintained oversight of Catalyst Circle requires support to be susta
 
 Resource an active site that documents the activities of the Catalyst Circle
 
-## Relevant experience
+## Relevant experience (identifying information)
 
 Stephen has 30 years' experience in organizing academic, community and business projects
 Website/GitHub repository (not required) https://catalyst-swarm.gitbook.io/catalyst-circle/ 
