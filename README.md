@@ -8,3 +8,5 @@
 [![GitHub milestones](https://img.shields.io/github/milestones/open/Quality-Assurance-DAO/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle?style=flat-square)](https://github.com/Quality-Assurance-DAO/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle)
 
 [Proposal Text](Proposal/F6-Distributed-decision-making-Oversight-of-Catalyst-Circle.md)
+
+[Ideascale Proposal](https://cardano.ideascale.com/a/dtd/Oversight-of-Catalyst-Circle/370088-48088)
