@@ -1,6 +1,9 @@
 ##  F6: Distributed decision making - Oversight of Catalyst Circle
 
 ## Problem statement :
+
+Catalyst Circle requires independent oversight.
+
 A community maintained oversight of Catalyst Circle requires support to be sustainable.
 
 ## Describe your solution to the problem
