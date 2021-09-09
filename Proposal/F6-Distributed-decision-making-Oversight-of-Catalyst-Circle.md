@@ -8,7 +8,9 @@ A community maintained oversight of Catalyst Circle requires support to be susta
 
 ## Describe your solution to the problem
 
-Resource an active site that documents the activities of the Catalyst Circle
+Provide independent oversight of Catalyst Circle.
+
+Resource an active site that documents & tracks the activities of the Catalyst Circle.
 
 ## Relevant experience (identifying information)
 
